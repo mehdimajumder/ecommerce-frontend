@@ -1,0 +1,134 @@
+{
+  "items": [
+    {
+      "_id": 1,
+      "gender": "women",
+      "category": "background1",
+      "title": "LOREM IPSUM DOLOR SIT AMET",
+      "Img": ["../assets/womens_shoes_bg/shoes_bg1_1.jpg"],
+      "link1": "Add Link",
+      "link2": "Add Link",
+      "active": true
+    },
+    {
+      "_id": 2,
+      "gender": "women",
+      "category": "background2",
+      "title": "LOREM IPSUM DOLOR SIT AMET",
+      "Img": ["../assets/womens_shoes_bg/shoes_bg1_2.jpg"],
+      "link1": "Add Link",
+      "link2": "Add Link",
+      "active": false
+    },
+    {
+      "_id": 3,
+      "gender": "women",
+      "category": "background3",
+      "title": "LOREM IPSUM DOLOR SIT AMET",
+      "Img": ["../assets/womens_shoes_bg/shoes_bg1_3.jpg"],
+      "link1": "Add Link",
+      "link2": "Add Link",
+      "active": false
+    },
+    {
+      "_id": 4,
+      "gender": "women",
+      "category": "background4",
+      "title": "LOREM IPSUM DOLOR SIT AMET",
+      "Img": ["../assets/womens_shoes_bg/shoes_bg1_4.jpg"],
+      "link1": "Add Link",
+      "link2": "Add Link",
+      "active": false
+    },
+    {
+      "_id": 5,
+      "gender": "women",
+      "category": "background5",
+      "title": "LOREM IPSUM DOLOR SIT AMET",
+      "Img": ["../assets/womens_shoes_bg/shoes_bg1_5.jpg"],
+      "link1": "Add Link",
+      "link2": "Add Link",
+      "active": false
+    },
+    {
+      "_id": 6,
+      "gender": "women",
+      "category": "background6",
+      "title": "LOREM IPSUM DOLOR SIT AMET",
+      "Img": ["../assets/womens_shoes_bg/shoes_bg1_6.jpg"],
+      "link1": "Add Link",
+      "link2": "Add Link",
+      "active": false
+    },
+    {
+      "_id": 7,
+      "gender": "women",
+      "category": "background7",
+      "title": "LOREM IPSUM DOLOR SIT AMET",
+      "Img": ["../assets/womens_shoes_bg/shoes_bg1.jpg"],
+      "link1": "Add Link",
+      "link2": "Add Link",
+      "active": false
+    },
+    {
+      "_id": 8,
+      "gender": "women",
+      "category": "background8",
+      "title": "LOREM IPSUM DOLOR SIT AMET",
+      "Img": ["../assets/womens_shoes_bg/shoes_bg2.jpg"],
+      "link1": "Add Link",
+      "link2": "Add Link",
+      "active": false
+    },
+    {
+      "_id": 9,
+      "gender": "women",
+      "category": "background9",
+      "title": "LOREM IPSUM DOLOR SIT AMET",
+      "Img": ["../assets/womens_shoes_bg/shoes_bg3.jpg"],
+      "link1": "Add Link",
+      "link2": "Add Link",
+      "active": false
+    },
+    {
+      "_id": 10,
+      "gender": "women",
+      "category": "background10",
+      "title": "LOREM IPSUM DOLOR SIT AMET",
+      "Img": ["../assets/womens_shoes_bg/shoes_bg4.jpg"],
+      "link1": "Add Link",
+      "link2": "Add Link",
+      "active": false
+    },
+    {
+      "_id": 11,
+      "gender": "women",
+      "category": "background11",
+      "title": "LOREM IPSUM DOLOR SIT AMET",
+      "Img": ["../assets/womens_shoes_bg/shoes_bg5.jpg"],
+      "link1": "Add Link",
+      "link2": "Add Link",
+      "active": false
+    },
+    {
+      "_id": 12,
+      "gender": "women",
+      "category": "background12",
+      "title": "LOREM IPSUM DOLOR SIT AMET",
+      "Img": ["../assets/womens_shoes_bg/shoes_bg6.jpg"],
+      "link1": "Add Link",
+      "link2": "Add Link",
+      "active": false
+    },
+    {
+      "_id": 19,
+      "gender": "women",
+      "category": "description",
+      "sectiontitle": "Women's Shoes",
+      "sectiondescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci labore eveniet blanditiis non fugit debitis officia pariatur tempore in saepe esse tenetur libero doloribus dolorem aliquam obcaecati commodi, cupiditate fugiat quisquam quod, magni vero dolores porro sed. Aspernatur sunt, blanditiis doloremque, voluptate reiciendis libero sapiente facere ad ab alias voluptatem earum amet. Animi doloremque adipisci, libero dolor amet porro voluptate ratione repellat beatae dicta sunt optio nulla est vitae blanditiis consequuntur dolorum sit eos tempore.",
+      "Img": "",
+      "active": false
+    }
+
+]
+}

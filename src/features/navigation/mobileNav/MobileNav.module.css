@@ -1,0 +1,58 @@
+/* === MobileNav.module.css === */
+
+/* === MOBILE MENU PANEL === */
+.mobilePanel {
+  position: fixed;
+  top: 0;
+  right: -40vw;
+  width: 40vw;
+  height: 100vh;
+  background: #fff;
+  z-index: 120;
+  padding: 2rem;
+  overflow-y: auto;
+  transition: right 0.3s ease-in-out;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.mobilePanel.open {
+  right: 0;
+  opacity: 1;
+  pointer-events: auto;
+}
+
+/* === MOBILE OVERLAY === */
+.mobileOverlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100vh;
+  width: 100vw;
+  background: rgba(0,0,0,0.4);
+  z-index: 110;
+}
+
+/* === CLOSE BUTTON === */
+.closeMobile {
+  background: none;
+  border: none;
+  float: right;
+  font-size: 1.5rem;
+  cursor: pointer;
+}
+
+/* === MOBILE === */
+.menuIcon {
+  display: none;
+}
+
+@media (max-width: 1025px) {
+  .menuIcon {
+    display: block;
+  }
+
+  .mainNav {
+    display: none;
+  }
+}

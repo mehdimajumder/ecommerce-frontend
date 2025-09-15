@@ -1,0 +1,91 @@
+{
+    "items": [
+      {
+        "_id": 1,
+        "gender": "women",
+        "category": ["Pants", "Joggers"],
+        "title": "LOREM IPSUM DOLOR SIT AMET",
+        "Img": ["../assets/womens_bottoms/womens_bottoms1_1.jpg","../assets/womens_bottoms/womens_bottoms1_2.jpg", "../assets/womens_bottoms/womens_bottoms1_3.jpg","../assets/womens_bottoms/womens_bottoms1_4.jpg"],
+        "price": 19.99,
+        "size": ["xxs", "xs", "s", "m", "l", "xl", "xxl"],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo felis tempor augue tristique, eget dignissim sapien ornare.",
+        "materials": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo felis tempor augue tristique, eget dignissim sapien ornare.",
+        "care": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo felis tempor augue tristique, eget dignissim sapien ornare.",
+        "active": true
+      },
+      {
+        "_id": 2,
+        "gender": "women",
+        "category": ["Pants", "Joggers"],
+        "title": "LOREM IPSUM DOLOR SIT AMET",
+        "Img": ["../assets/womens_bottoms/womens_bottoms2_1.jpg","../assets/womens_bottoms/womens_bottoms2_2.jpg", "../assets/womens_bottoms/womens_bottoms2_3.jpg","../assets/womens_bottoms/womens_bottoms2_4.jpg"],
+        "price": 19.99,
+        "size": ["xxs", "xs", "s", "m", "l", "xl", "xxl"],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo felis tempor augue tristique, eget dignissim sapien ornare.",
+        "materials": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo felis tempor augue tristique, eget dignissim sapien ornare.",
+        "care": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo felis tempor augue tristique, eget dignissim sapien ornare.",
+        "active": false
+      },
+      {
+        "_id": 3,
+        "gender": "women",
+        "category": ["Pants", "Wide Leg Pants", "Dress Pants"],
+        "title": "LOREM IPSUM DOLOR SIT AMET",
+        "Img": ["../assets/womens_bottoms/womens_bottoms3_1.jpg","../assets/womens_bottoms/womens_bottoms3_2.jpg", "../assets/womens_bottoms/womens_bottoms3_3.jpg","../assets/womens_bottoms/womens_bottoms3_4.jpg"],
+        "price": 19.99,
+        "size": ["xxs", "xs", "s", "m", "l", "xl", "xxl"],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo felis tempor augue tristique, eget dignissim sapien ornare.",
+        "materials": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo felis tempor augue tristique, eget dignissim sapien ornare.",
+        "care": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo felis tempor augue tristique, eget dignissim sapien ornare.",
+        "active": false
+      },
+      {
+        "_id": 4,
+        "gender": "women",
+        "category": ["Pants", "Chinos & Slacks", "Dress Pants"],
+        "title": "LOREM IPSUM DOLOR SIT AMET",
+        "Img": ["../assets/womens_bottoms/womens_bottoms4_1.jpg","../assets/womens_bottoms/womens_bottoms4_2.jpg", "../assets/womens_bottoms/womens_bottoms4_3.jpg","../assets/womens_bottoms/womens_bottoms4_4.jpg"],
+        "price": 19.99,
+        "size": ["xxs", "xs", "s", "m", "l", "xl", "xxl"],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo felis tempor augue tristique, eget dignissim sapien ornare.",
+        "materials": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo felis tempor augue tristique, eget dignissim sapien ornare.",
+        "care": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo felis tempor augue tristique, eget dignissim sapien ornare.",
+        "active": false
+      },
+      {
+        "_id": 5,
+        "gender": "women",
+        "category": ["Pants", "Joggers"],
+        "title": "LOREM IPSUM DOLOR SIT AMET",
+        "Img": ["../assets/womens_bottoms/womens_bottoms5_1.jpg","../assets/womens_bottoms/womens_bottoms5_2.jpg", "../assets/womens_bottoms/womens_bottoms5_3.jpg","../assets/womens_bottoms/womens_bottoms5_4.jpg"],
+        "price": 19.99,
+        "size": ["xxs", "xs", "s", "m", "l", "xl", "xxl"],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo felis tempor augue tristique, eget dignissim sapien ornare.",
+        "materials": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo felis tempor augue tristique, eget dignissim sapien ornare.",
+        "care": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo felis tempor augue tristique, eget dignissim sapien ornare.",
+        "active": false
+      },
+      {
+        "_id": 6,
+        "gender": "women",
+        "category": ["Pants", "Joggers"],
+        "title": "LOREM IPSUM DOLOR SIT AMET",
+        "Img": ["../assets/womens_bottoms/womens_bottoms6_1.jpg","../assets/womens_bottoms/womens_bottoms6_2.jpg", "../assets/womens_bottoms/womens_bottoms6_3.jpg","../assets/womens_bottoms/womens_bottoms6_4.jpg"],
+        "price": 19.99,
+        "size": ["xxs", "xs", "s", "m", "l", "xl", "xxl"],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo felis tempor augue tristique, eget dignissim sapien ornare.",
+        "materials": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo felis tempor augue tristique, eget dignissim sapien ornare.",
+        "care": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo felis tempor augue tristique, eget dignissim sapien ornare.",
+        "active": false
+      },
+      {
+        "_id": 7,
+        "gender": "women",
+        "category": ["Pants"],
+        "sectiontitle": "Women's Pants",
+        "sectiondescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci labore eveniet blanditiis non fugit debitis officia pariatur tempore in saepe esse tenetur libero doloribus dolorem aliquam obcaecati commodi, cupiditate fugiat quisquam quod, magni vero dolores porro sed. Aspernatur sunt, blanditiis doloremque, voluptate reiciendis libero sapiente facere ad ab alias voluptatem earum amet. Animi doloremque adipisci, libero dolor amet porro voluptate ratione repellat beatae dicta sunt optio nulla est vitae blanditiis consequuntur dolorum sit eos tempore.",
+        "Img": " ",
+        "active": false
+      }
+    ]
+  }

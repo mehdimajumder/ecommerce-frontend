@@ -1,0 +1,231 @@
+{
+  "items": [
+    {
+      "_id": 1,
+      "gender": "men",
+      "category": "background1",
+      "title": "LOREM IPSUM DOLOR SIT AMET",
+      "Img": [
+        "../assets/mens_bg/mens_bg1_1.jpg"
+      ],
+      "link1": "Add Link",
+      "link2": "Add Link",
+      "active": true
+    },
+    {
+      "_id": 2,
+      "gender": "men",
+      "category": "background2",
+      "title": "LOREM IPSUM DOLOR SIT AMET",
+      "Img": [
+        "../assets/mens_bg/mens_bg1_2.jpg"
+      ],
+      "link1": "Add Link",
+      "link2": "Add Link",
+      "active": false
+    },
+    {
+      "_id": 3,
+      "gender": "men",
+      "category": "background3",
+      "title": "LOREM IPSUM DOLOR SIT AMET",
+      "Img": [
+        "../assets/mens_bg/mens_bg1_3.jpg"
+      ],
+      "link1": "Add Link",
+      "link2": "Add Link",
+      "active": false
+    },
+    {
+      "_id": 4,
+      "gender": "men",
+      "category": "background4",
+      "title": "LOREM IPSUM DOLOR SIT AMET",
+      "Img": [
+        "../assets/mens_bg/mens_bg1_4.jpg"
+      ],
+      "link1": "Add Link",
+      "link2": "Add Link",
+      "active": false
+    },
+    {
+      "_id": 5,
+      "gender": "men",
+      "category": "background5",
+      "title": "LOREM IPSUM DOLOR SIT AMET",
+      "Img": [
+        "../assets/mens_bg/mens_bg1_5.jpg"
+      ],
+      "link1": "Add Link",
+      "link2": "Add Link",
+      "active": false
+    },
+    {
+      "_id": 6,
+      "gender": "men",
+      "category": "background6",
+      "title": "LOREM IPSUM DOLOR SIT AMET",
+      "Img": [
+        "../assets/mens_bg/mens_bg1_6.jpg"
+      ],
+      "link1": "Add Link",
+      "link2": "Add Link",
+      "active": false
+    },
+    {
+      "_id": 7,
+      "gender": "men",
+      "category": "background7",
+      "title": "LOREM IPSUM DOLOR SIT AMET",
+      "Img": [
+        "../assets/mens_bg/mens_bg1.jpg"
+      ],
+      "link1": "Add Link",
+      "link2": "Add Link",
+      "active": false
+    },
+    {
+      "_id": 8,
+      "gender": "men",
+      "category": "background8",
+      "title": "LOREM IPSUM DOLOR SIT AMET",
+      "Img": [
+        "../assets/mens_bg/mens_bg2.jpg"
+      ],
+      "link1": "Add Link",
+      "link2": "Add Link",
+      "active": false
+    },
+    {
+      "_id": 9,
+      "gender": "men",
+      "category": "background9",
+      "title": "LOREM IPSUM DOLOR SIT AMET",
+      "Img": [
+        "../assets/mens_bg/mens_bg3.jpg"
+      ],
+      "link1": "Add Link",
+      "link2": "Add Link",
+      "active": false
+    },
+    {
+      "_id": 10,
+      "gender": "men",
+      "category": "background10",
+      "title": "LOREM IPSUM DOLOR SIT AMET",
+      "Img": [
+        "../assets/mens_bg/mens_bg4.jpg"
+      ],
+      "link1": "Add Link",
+      "link2": "Add Link",
+      "active": false
+    },
+    {
+      "_id": 11,
+      "gender": "men",
+      "category": "background11",
+      "title": "LOREM IPSUM DOLOR SIT AMET",
+      "Img": [
+        "../assets/mens_bg/mens_bg5.jpg"
+      ],
+      "link1": "Add Link",
+      "link2": "Add Link",
+      "active": false
+    },
+    {
+      "_id": 12,
+      "gender": "men",
+      "category": "background12",
+      "title": "LOREM IPSUM DOLOR SIT AMET",
+      "Img": [
+        "../assets/mens_bg/mens_bg6.jpg"
+      ],
+      "link1": "Add Link",
+      "link2": "Add Link",
+      "active": false
+    },
+    {
+      "_id": 13,
+      "gender": "men",
+      "category": "background13",
+      "title": "LOREM IPSUM DOLOR SIT AMET",
+      "Img": [
+        "../assets/mens_bg/mens_bg7.jpg"
+      ],
+      "link1": "Add Link",
+      "link2": "Add Link",
+      "active": false
+    },
+    {
+      "_id": 14,
+      "gender": "men",
+      "category": "background14",
+      "title": "LOREM IPSUM DOLOR SIT AMET",
+      "Img": [
+        "../assets/mens_bg/mens_bg8.jpg"
+      ],
+      "link1": "Add Link",
+      "link2": "Add Link",
+      "active": false
+    },
+    {
+      "_id": 15,
+      "gender": "men",
+      "category": "background15",
+      "title": "LOREM IPSUM DOLOR SIT AMET",
+      "Img": [
+        "../assets/mens_bg/mens_bg9.jpg"
+      ],
+      "link1": "Add Link",
+      "link2": "Add Link",
+      "active": false
+    },
+    {
+      "_id": 16,
+      "gender": "men",
+      "category": "background16",
+      "title": "LOREM IPSUM DOLOR SIT AMET",
+      "Img": [
+        "../assets/mens_bg/mens_bg10.jpg"
+      ],
+      "link1": "Add Link",
+      "link2": "Add Link",
+      "active": false
+    },
+    {
+      "_id": 17,
+      "gender": "men",
+      "category": "background17",
+      "title": "LOREM IPSUM DOLOR SIT AMET",
+      "Img": [
+        "../assets/mens_bg/mens_bg11.jpg"
+      ],
+      "link1": "Add Link",
+      "link2": "Add Link",
+      "active": false
+    },
+    {
+      "_id": 18,
+      "gender": "men",
+      "category": "background18",
+      "title": "LOREM IPSUM DOLOR SIT AMET",
+      "Img": [
+        "../assets/mens_bg/mens_bg12.jpg"
+      ],
+      "link1": "Add Link",
+      "link2": "Add Link",
+      "sectiontitle": "Men's Clothing",
+      "sectiondescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci labore eveniet blanditiis non fugit debitis officia pariatur tempore in saepe esse tenetur libero doloribus dolorem aliquam obcaecati commodi, cupiditate fugiat quisquam quod, magni vero dolores porro sed. Aspernatur sunt, blanditiis doloremque, voluptate reiciendis libero sapiente facere ad ab alias voluptatem earum amet. Animi doloremque adipisci, libero dolor amet porro voluptate ratione repellat beatae dicta sunt optio nulla est vitae blanditiis consequuntur dolorum sit eos tempore.",
+      "active": false
+    },
+    {
+      "_id": 19,
+      "gender": "men",
+      "category": "description",
+      "sectiontitle": "Men's Clothing",
+      "sectiondescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci labore eveniet blanditiis non fugit debitis officia pariatur tempore in saepe esse tenetur libero doloribus dolorem aliquam obcaecati commodi, cupiditate fugiat quisquam quod, magni vero dolores porro sed. Aspernatur sunt, blanditiis doloremque, voluptate reiciendis libero sapiente facere ad ab alias voluptatem earum amet. Animi doloremque adipisci, libero dolor amet porro voluptate ratione repellat beatae dicta sunt optio nulla est vitae blanditiis consequuntur dolorum sit eos tempore.",
+      "Img": " ",
+      "active": false
+    }
+  ]
+}

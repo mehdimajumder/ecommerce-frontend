@@ -1,0 +1,92 @@
+{
+    "items": [
+      {
+        "_id": 1,
+        "gender": "women",
+        "category": ["Jackets & Coats", "Jackets", "Leather Jackets"],
+        "title": "LOREM IPSUM DOLOR SIT AMET",
+        "Img": ["../assets/womens_jackets/womens_jackets1_1.jpg","../assets/womens_jackets/womens_jackets1_2.jpg", "../assets/womens_jackets/womens_jackets1_3.jpg","../assets/womens_jackets/womens_jackets1_4.jpg"],
+        "price": 120.99,
+        "size": ["xxs", "xs", "s", "m", "l", "xl", "xxl"],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo felis tempor augue tristique, eget dignissim sapien ornare.",
+        "materials": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo felis tempor augue tristique, eget dignissim sapien ornare.",
+        "care": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo felis tempor augue tristique, eget dignissim sapien ornare.",
+        "active": true
+      },
+      {
+        "_id": 2,
+        "gender": "women",
+        "category": ["Jackets & Coats", "Coats", "Winter Coats"],
+        "title": "LOREM IPSUM DOLOR SIT AMET",
+        "Img": ["../assets/womens_jackets/womens_jackets2_1.jpg","../assets/womens_jackets/womens_jackets2_2.jpg", "../assets/womens_jackets/womens_jackets2_3.jpg","../assets/womens_jackets/womens_jackets2_4.jpg"],
+        "price": 19.99,
+        "size": ["xxs", "xs", "s", "m", "l", "xl", "xxl"],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo felis tempor augue tristique, eget dignissim sapien ornare.",
+        "materials": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo felis tempor augue tristique, eget dignissim sapien ornare.",
+        "care": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo felis tempor augue tristique, eget dignissim sapien ornare.",
+        "active": false
+      },
+      {
+        "_id": 3,
+        "gender": "women",
+        "category": ["Jackets & Coats", "Jackets", "Teddy & Pile"],
+        "title": "LOREM IPSUM DOLOR SIT AMET",
+        "Img": ["../assets/womens_jackets/womens_jackets3_1.jpg","../assets/womens_jackets/womens_jackets3_2.jpg", "../assets/womens_jackets/womens_jackets3_3.jpg","../assets/womens_jackets/womens_jackets3_4.jpg"],
+        "price": 19.99,
+        "size": ["xxs", "xs", "s", "m", "l", "xl", "xxl"],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo felis tempor augue tristique, eget dignissim sapien ornare.",
+        "materials": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo felis tempor augue tristique, eget dignissim sapien ornare.",
+        "care": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo felis tempor augue tristique, eget dignissim sapien ornare.",
+        "active": false
+      },
+      {
+        "_id": 4,
+        "gender": "women",
+        "category": ["Jackets & Coats", "Coats", "Trench Coats"],
+        "title": "LOREM IPSUM DOLOR SIT AMET",
+        "Img": ["../assets/womens_jackets/womens_jackets4_1.jpg","../assets/womens_jackets/womens_jackets4_2.jpg", "../assets/womens_jackets/womens_jackets4_3.jpg","../assets/womens_jackets/womens_jackets4_4.jpg"],
+        "price": 19.99,
+        "size": ["xxs", "xs", "s", "m", "l", "xl", "xxl"],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo felis tempor augue tristique, eget dignissim sapien ornare.",
+        "materials": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo felis tempor augue tristique, eget dignissim sapien ornare.",
+        "care": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo felis tempor augue tristique, eget dignissim sapien ornare.",
+        "active": false
+      },
+      {
+        "_id": 5,
+        "gender": "women",
+        "category": ["Jackets & Coats", "Coats", "Winter Coats"],
+        "title": "LOREM IPSUM DOLOR SIT AMET",
+        "Img": ["../assets/womens_jackets/womens_jackets5_1.jpg","../assets/womens_jackets/womens_jackets5_2.jpg", "../assets/womens_jackets/womens_jackets5_3.jpg","../assets/womens_jackets/womens_jackets5_4.jpg"],
+        "price": 19.99,
+        "size": ["xxs", "xs", "s", "m", "l", "xl", "xxl"],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo felis tempor augue tristique, eget dignissim sapien ornare.",
+        "materials": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo felis tempor augue tristique, eget dignissim sapien ornare.",
+        "care": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo felis tempor augue tristique, eget dignissim sapien ornare.",
+        "active": false
+      },
+      {
+        "_id": 6,
+        "gender": "women",
+        "category": ["Jackets & Coats", "Coats"],
+        "title": "LOREM IPSUM DOLOR SIT AMET",
+        "Img": ["../assets/womens_jackets/womens_jackets6_1.jpg","../assets/womens_jackets/womens_jackets6_2.jpg", "../assets/womens_jackets/womens_jackets6_3.jpg","../assets/womens_jackets/womens_jackets6_4.jpg"],
+        "price": 19.99,
+        "size": ["xxs", "xs", "s", "m", "l", "xl", "xxl"],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo felis tempor augue tristique, eget dignissim sapien ornare.",
+        "materials": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo felis tempor augue tristique, eget dignissim sapien ornare.",
+        "care": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo felis tempor augue tristique, eget dignissim sapien ornare.",
+        "active": false
+    },
+    
+    {
+      "_id": 7,
+      "gender": "women",
+      "category": ["Jackets & Coats"],
+      "sectiontitle": "Women's Jackets & Coats",
+      "sectiondescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci labore eveniet blanditiis non fugit debitis officia pariatur tempore in saepe esse tenetur libero doloribus dolorem aliquam obcaecati commodi, cupiditate fugiat quisquam quod, magni vero dolores porro sed. Aspernatur sunt, blanditiis doloremque, voluptate reiciendis libero sapiente facere ad ab alias voluptatem earum amet. Animi doloremque adipisci, libero dolor amet porro voluptate ratione repellat beatae dicta sunt optio nulla est vitae blanditiis consequuntur dolorum sit eos tempore.",
+      "Img": " ",
+      "active": false
+    }
+]
+}

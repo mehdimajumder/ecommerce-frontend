@@ -1,0 +1,12 @@
+/* === Banner.module.css === */
+
+/* === GENERAL === */
+.container {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    display: flex;
+    justify-content: center; 
+    align-items: center;                                    
+    border-bottom: 1px solid #000;
+    z-index: 99;
+}

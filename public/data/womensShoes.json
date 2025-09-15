@@ -1,0 +1,91 @@
+{
+    "items": [
+      {
+        "_id": 1,
+        "gender": "women",
+        "category": ["Women's Shoes", "Ballet Flats"],
+        "title": "LOREM IPSUM DOLOR SIT AMET",
+        "Img": ["../assets/womens_shoes/womens_shoes1_1.jpg","../assets/womens_shoes/womens_shoes1_2.jpg", "../assets/womens_shoes/womens_shoes1_3.jpg","../assets/womens_shoes/womens_shoes1_4.jpg"],
+        "price": 19.99,
+        "size": ["4", "5", "6", "7", "8", "9", "10", "11"],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo felis tempor augue tristique, eget dignissim sapien ornare.",
+        "materials": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo felis tempor augue tristique, eget dignissim sapien ornare.",
+        "care": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo felis tempor augue tristique, eget dignissim sapien ornare.",
+        "active": true
+      },
+      {
+        "_id": 2,
+        "gender": "women",
+        "category": ["Women's Shoes", "Ballet Flats"],
+        "title": "LOREM IPSUM DOLOR SIT AMET",
+        "Img": ["../assets/womens_shoes/womens_shoes2_1.jpg","../assets/womens_shoes/womens_shoes2_2.jpg", "../assets/womens_shoes/womens_shoes2_3.jpg","../assets/womens_shoes/womens_shoes2_4.jpg"],
+        "price": 19.99,
+        "size": ["4", "5", "6", "7", "8", "9", "10", "11"],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo felis tempor augue tristique, eget dignissim sapien ornare.",
+        "materials": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo felis tempor augue tristique, eget dignissim sapien ornare.",
+        "care": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo felis tempor augue tristique, eget dignissim sapien ornare.",
+        "active": false
+      },
+      {
+        "_id": 3,
+        "gender": "women",
+        "category": ["Women's Shoes", "Loafers"],
+        "title": "LOREM IPSUM DOLOR SIT AMET",
+        "Img": ["../assets/womens_shoes/womens_shoes3_1.jpg","../assets/womens_shoes/womens_shoes3_2.jpg", "../assets/womens_shoes/womens_shoes3_3.jpg","../assets/womens_shoes/womens_shoes3_4.jpg"],
+        "price": 19.99,
+        "size": ["4", "5", "6", "7", "8", "9", "10", "11"],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo felis tempor augue tristique, eget dignissim sapien ornare.",
+        "materials": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo felis tempor augue tristique, eget dignissim sapien ornare.",
+        "care": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo felis tempor augue tristique, eget dignissim sapien ornare.",
+        "active": false
+      },
+      {
+        "_id": 4,
+        "gender": "women",
+        "category": ["Women's Shoes", "Mules"],
+        "title": "LOREM IPSUM DOLOR SIT AMET",
+        "Img": ["../assets/womens_shoes/womens_shoes4_1.jpg","../assets/womens_shoes/womens_jackets4_2.jpg", "../assets/womens_shoes/womens_shoes4_3.jpg","../assets/womens_shoes/womens_shoes4_4.jpg"],
+        "price": 19.99,
+        "size": ["4", "5", "6", "7", "8", "9", "10", "11"],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo felis tempor augue tristique, eget dignissim sapien ornare.",
+        "materials": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo felis tempor augue tristique, eget dignissim sapien ornare.",
+        "care": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo felis tempor augue tristique, eget dignissim sapien ornare.",
+        "active": false
+      },
+      {
+        "_id": 5,
+        "gender": "women",
+        "category": ["Women's Shoes", "Heels"],
+        "title": "LOREM IPSUM DOLOR SIT AMET",
+        "Img": ["../assets/womens_shoes/womens_shoes5_1.jpg","../assets/womens_shoes/womens_shoes5_2.jpg", "../assets/womens_shoes/womens_shoes5_3.jpg","../assets/womens_shoes/womens_shoes5_4.jpg"],
+        "price": 19.99,
+        "size": ["4", "5", "6", "7", "8", "9", "10", "11"],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo felis tempor augue tristique, eget dignissim sapien ornare.",
+        "materials": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo felis tempor augue tristique, eget dignissim sapien ornare.",
+        "care": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo felis tempor augue tristique, eget dignissim sapien ornare.",
+        "active": false
+      },
+      {
+        "_id": 6,
+        "gender": "women",
+        "category": ["Women's Shoes", "Heels"],
+        "title": "LOREM IPSUM DOLOR SIT AMET",
+        "Img": ["../assets/womens_shoes/womens_shoes6_1.jpg","../assets/womens_shoes/womens_shoes6_2.jpg", "../assets/womens_shoes/womens_shoes6_3.jpg","../assets/womens_shoes/womens_shoes6_4.jpg"],
+        "price": 19.99,
+        "size": ["4", "5", "6", "7", "8", "9", "10", "11"],
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo felis tempor augue tristique, eget dignissim sapien ornare.",
+        "materials": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo felis tempor augue tristique, eget dignissim sapien ornare.",
+        "care": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi commodo felis tempor augue tristique, eget dignissim sapien ornare.",
+        "active": false
+    },
+    {
+      "_id": 7,
+      "gender": "women",
+      "category": ["Women's Shoes"],
+      "sectiontitle": "Women's Shoes",
+      "sectiondescription": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci labore eveniet blanditiis non fugit debitis officia pariatur tempore in saepe esse tenetur libero doloribus dolorem aliquam obcaecati commodi, cupiditate fugiat quisquam quod, magni vero dolores porro sed. Aspernatur sunt, blanditiis doloremque, voluptate reiciendis libero sapiente facere ad ab alias voluptatem earum amet. Animi doloremque adipisci, libero dolor amet porro voluptate ratione repellat beatae dicta sunt optio nulla est vitae blanditiis consequuntur dolorum sit eos tempore.",
+      "Img": " ",
+      "active": false
+    }
+]
+}

@@ -1,0 +1,190 @@
+/* === MainNav.module.css === */
+
+/* === GENERAL === */
+.container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 1rem 1.5rem;
+  position: relative;
+}
+
+.leftSection {
+  display: flex;
+  align-items: center;
+  gap: 4rem;
+}
+
+.logo a {
+  font-size: 1.5rem;
+  font-weight: 500;
+  text-decoration: none;
+  color: #d90429;
+}
+
+
+/* === MAIN NAVIGATION === */
+.mainNav ul {
+  list-style: none;
+  display: flex;
+  gap: 2rem;
+  margin: 0;
+  padding: 0;
+  z-index: 99;
+  
+}
+
+.mainNavItemButton {
+  border: none;
+  background: none;
+  font-size: 1rem;
+  font-weight: 300;
+  text-transform: uppercase;
+  cursor: pointer;
+  padding: 0;
+  color: var(--second);
+  transition: color 0.3s ease;
+  
+}
+
+.mainNavItemButton:hover {
+  color: var(--primary);
+  font-weight: 600;
+}
+
+/* === ICONS === */
+.userIcons {
+  display: flex;
+  gap: 1.5rem;
+}
+
+.userIcons button {
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.userIcons svg {
+  width: 18px;
+  height: 18px;
+}
+
+/* === OVERLAY === */
+.overlay {
+  position: fixed;
+  top: 110px;
+  left: 0;
+  height: calc(100vh - 60px);
+  transform: translateX(0);
+  width: 100vw;
+  background: rgba(0, 0, 0, 0.4);
+  z-index: 4;
+  height: calc(100vh - 60px);
+  transition: left 0.3s ease-in-out;
+}
+
+/* === SIDE NAVIGATION === */
+.sideNav {
+  position: fixed;
+  top: 0vh;
+  left: 0vw;
+  height: 100vh;
+  width: 40vw;
+  background: #fff;
+  z-index: 100;
+  overflow-y: auto;
+  transform: translateX(-100%);
+  transition: transform 0.3s ease-in-out;
+  pointer-events: none;
+  opacity: 0;
+  z-index: 98;
+}
+
+.sideNav.open {
+  transform: translateX(0);
+  pointer-events: auto;
+  opacity: 1;
+}
+
+.sideNav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  
+}
+
+.sideNavItemButton {
+  border: none;
+  background: none;
+  font-size: 1rem;
+  font-weight: 300;
+  text-transform: uppercase;
+  cursor: pointer;
+  margin: 1rem 1.5rem;
+  padding: 0;
+  transition: color 0.3s ease;
+  
+}
+
+.sideNavItemButton:hover {
+  color: var(--second);
+  
+}
+
+
+
+/* === NESTED SIDE NAVIGATION === */
+.nestedSideNav {
+  position: fixed;
+  top: 0vh;
+  left: 0vw;
+  height: 100vh;
+  width: 40vw;
+  background: #fff;
+  padding: 2rem;
+  z-index: 101;
+  overflow-y: auto;
+  transform: translateX(-100%);
+  transition: transform 0.3s ease-in-out;
+  opacity: 0;
+}
+
+.nestedSideNav.open {
+  transform: translateX(0);
+  pointer-events: auto;
+  opacity: 1;
+}
+
+.closeNested {
+  background: none;
+  border: none;
+  font-size: 1.2rem;
+  float: right;
+  cursor: pointer;
+}
+
+.nestedSideNav ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nestedSideNavLink {
+  font-size: 1rem;
+  font-weight: 300;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: var(--primary);
+  cursor: pointer;
+  padding: 0;
+  transition: color 0.3s ease;
+}
+
+.nestedSideNavItemButton:hover {
+  color: var(--second);
+}
+
+
+
+
+
